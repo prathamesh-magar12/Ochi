@@ -16,7 +16,7 @@ const LandingPage = () => {
                   {item}
                 </h1>
               </div>
-            </div>
+            </div> 
           );
         })}
       </div>
